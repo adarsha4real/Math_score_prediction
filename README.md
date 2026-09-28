@@ -18,4 +18,4 @@ Python · Flask · scikit-learn · Pandas · NumPy · Bootstrap 5
 
 ## 👤 Author
 
-**Your Name** · [GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Adarsha Baskota** · [GitHub](https://github.com/adarsha4real) · 
